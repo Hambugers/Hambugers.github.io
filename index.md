@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## 乐言畅语工作室官方网站
 
-You can use the [editor on GitHub](https://github.com/Hambugers/Hambugers.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+这是乐言畅语工作室，界面有点丑，因为还在装修
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+老板叫刘乐乐
 
-### Markdown
+### 没错 刘乐乐
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+或者改名了？
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 一号标题
+## 二号标题
+### 三号标题
 
-- Bulleted
+- 符号列表
 - List
 
-1. Numbered
+1. 数字列表
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**粗体** and _斜体_ and `代码` text
 
-[Link](url) and ![Image](src)
+[链接](域名)) and ![图片](位置)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多细节参见 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Themes 这是主题名称
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hambugers/Hambugers.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+md文件将使用这个主题 [repository settings](https://github.com/Hambugers/Hambugers.github.io/settings/pages).主题的设置文件是 `_config.yml`
 
-### Support or Contact
+### 联系方式
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+老板弟弟的 QQ ：13647577654
+老板弟弟的电话：18935210996
