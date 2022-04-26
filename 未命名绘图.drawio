@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:00:56.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="qLdf4A90SYdPbk4T6wqp" type="github"><diagram id="EY_qUcZHThWYNwncuKoP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:27:26.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ka3ZMRLO3YTxPt2bOdEh" version="17.4.6" type="github">
+  <diagram id="EY_qUcZHThWYNwncuKoP" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-11" value="标签表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-12" value="用户信息表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-13" value="文章类型表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-18" value="评论表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-19" value="登录信息表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="440" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-20" value="用户" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-21" value="管理员" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-22" value="关注" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-23" value="评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-24" value="发帖" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_BHMIHELOmvFwKpU3CVH-25" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
